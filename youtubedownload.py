@@ -1,8 +1,8 @@
 import yt_dlp
 
 
-save_path = '/Users/kehindeoabe/Downloads/'
-video_url = 'https://www.youtube.com/watch?v=DpcOoPEasa8'
+save_path = '/Users/yourname/Downloads/'
+video_url = 'https://www.youtube.com/watch?v=your_video_id'
 
 
 # Function to download YouTube video and convert to MP3 in best quality
