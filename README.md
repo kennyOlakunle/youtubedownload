@@ -57,7 +57,7 @@ python your_script_name.py
 ```
 
 
-The MP3 file will be saved to the specified `save_path`.
+The MP3 file will be saved to the specified `save_path`
 
 
 
